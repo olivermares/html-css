@@ -1,0 +1,30 @@
+
+body{
+    background-color: lightblue;
+}
+
+.pepino{
+    background-color: blue;
+}
+
+#title{
+    color: yellow;
+}
+
+.ppa1{
+    width: 45%;
+    background-color: pink;;
+}
+
+.aside{
+    width: 45%;
+    background-color: purple;
+}
+
+main{
+    display: flex;
+    border: 1px solid black;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 5px;
+}
